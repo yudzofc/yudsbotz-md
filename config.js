@@ -58,7 +58,7 @@ global.psaweria = 'https://saweria.co/'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6282153954737'
-global.nomorown = '6285693650294'
+global.nomorown = ['6285693650294','6285600380823'
 global.namebot = 'YudsBotz'
 global.nameown = 'Ⓒ︎YUDS'
 
@@ -71,7 +71,7 @@ global.owner = [
   ['6281384512212', 'YudsBotz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
-global.mods = ['6285693650294'] // Want some help?
+global.mods = ['6285693650294','6285600380823'] // Want some help?
 global.prems = [] // Premium user bukan disini nambahinnya, ketik .addprem @user 10
 
 
