@@ -4,12 +4,12 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `Bot ini menggunakan script
 
 Original Base by Nurutomo:
-https://github.com/nurutomo/wabot-aq
+https://github.com/yudzofc/yudsbotz-md`
 
-Base KannaChan: -
 
-Recode By Zukashika:
-https://youtu.be/1SHj3T4qRnM`
+
+
+
 
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
