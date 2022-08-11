@@ -2,8 +2,8 @@ import fs from 'fs'
 import fetch from 'node-fetch'
 let handler  = async (m, { conn, usedPrefix: _p }) => {
 let info = `Bot ini menggunakan script
-
-Original Base by Nurutomo:
+Script enggak dijual alias GRATIS, tapi kll mau donate boleh lah
+Original Base by Wahyu:
 https://github.com/yudzofc/yudsbotz-md`
 
 
